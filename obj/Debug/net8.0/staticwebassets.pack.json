@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\AerolineasArg.png",
+      "PackagePath": "staticwebassets\\img\\AerolineasArg.png"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\AirEuropa.jpg",
+      "PackagePath": "staticwebassets\\img\\AirEuropa.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\AmericanAirlines.jpg",
+      "PackagePath": "staticwebassets\\img\\AmericanAirlines.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Bombonera.jpg",
+      "PackagePath": "staticwebassets\\img\\Bombonera.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Coliseo.jpg",
+      "PackagePath": "staticwebassets\\img\\Coliseo.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Disney.jpg",
+      "PackagePath": "staticwebassets\\img\\Disney.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Emirates.jpg",
+      "PackagePath": "staticwebassets\\img\\Emirates.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Londres.jpg",
+      "PackagePath": "staticwebassets\\img\\Londres.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Obelisco.jpg",
+      "PackagePath": "staticwebassets\\img\\Obelisco.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\QatarAirways.jpg",
+      "PackagePath": "staticwebassets\\img\\QatarAirways.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\imagen ortworld.webp",
+      "PackagePath": "staticwebassets\\img\\imagen ortworld.webp"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\img\\logoortworld.jpg",
+      "PackagePath": "staticwebassets\\img\\logoortworld.jpg"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Prog2024\\TP4_Benezra_Landivar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP4_Benezra_Landivar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP4_Benezra_Landivar.props",
+      "PackagePath": "build\\TP4_Benezra_Landivar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4_Benezra_Landivar.props",
+      "PackagePath": "buildMultiTargeting\\TP4_Benezra_Landivar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP4_Benezra_Landivar.props",
+      "PackagePath": "buildTransitive\\TP4_Benezra_Landivar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

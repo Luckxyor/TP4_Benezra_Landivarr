@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP4_Benezra_Landivar.props" />
+</Project>

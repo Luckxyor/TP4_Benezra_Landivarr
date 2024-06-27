@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<header>
+    <h1>Home</h1>
+    <div>
+        <img src="/img/logoortworld.jpg">
+        <h2>Bienvenidos al sitio web de ORTWorld</h2>
+    </div>
+</header>
+<a href= '@Url.Action("SelectPaquete", "Home")'> Ir a Cargar Paquete</a>
+
+@{
+    int paq=0;
+    foreach (string destino in ViewBag.ListaPaquetes.Keys)
+    {
+        paq++;
+        <section>
+            <h3>Paquete @paq</h3>
+            <div class="Paquetes">
+                <p>@destino</p>
+                <p>@ViewBag.ListaPaquetes[destino].Hotel</p>
+                <img src="/img/@ViewBag.ListaPaquetes[destino].Aereo">
+                <img src="/img/@ViewBag.ListaPaquetes[destino].Excursion">
+            </div>
+        </section>
+    }
+}

@@ -1,0 +1,84 @@
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.Development.json
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.json
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.staticwebassets.runtime.json
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.exe
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.deps.json
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.runtimeconfig.json
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.dll
+Z:\Prog 2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.pdb
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfoInputs.cache
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfo.cs
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.csproj.CoreCompileInputs.cache
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.MvcApplicationPartsAssemblyInfo.cache
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cache
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cs
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.TP4_Benezra_Landivar.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.build.TP4_Benezra_Landivar.props
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP4_Benezra_Landivar.props
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP4_Benezra_Landivar.props
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\scopedcss\bundle\TP4_Benezra_Landivar.styles.css
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.dll
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\refint\TP4_Benezra_Landivar.dll
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.pdb
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.genruntimeconfig.cache
+Z:\Prog 2024\TP4_Benezra_Landivar\obj\Debug\net8.0\ref\TP4_Benezra_Landivar.dll
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.Development.json
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.json
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.staticwebassets.runtime.json
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.exe
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.deps.json
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.runtimeconfig.json
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.dll
+D:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.pdb
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfoInputs.cache
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfo.cs
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.csproj.CoreCompileInputs.cache
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.MvcApplicationPartsAssemblyInfo.cache
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cache
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cs
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.build.json
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.development.json
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.TP4_Benezra_Landivar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.build.TP4_Benezra_Landivar.props
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP4_Benezra_Landivar.props
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP4_Benezra_Landivar.props
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\scopedcss\bundle\TP4_Benezra_Landivar.styles.css
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.dll
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\refint\TP4_Benezra_Landivar.dll
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.pdb
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.genruntimeconfig.cache
+D:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\ref\TP4_Benezra_Landivar.dll
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.Development.json
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\appsettings.json
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.staticwebassets.runtime.json
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.exe
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.deps.json
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.runtimeconfig.json
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.dll
+E:\Prog2024\TP4_Benezra_Landivar\bin\Debug\net8.0\TP4_Benezra_Landivar.pdb
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfoInputs.cache
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.AssemblyInfo.cs
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.csproj.CoreCompileInputs.cache
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.MvcApplicationPartsAssemblyInfo.cache
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cache
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.RazorAssemblyInfo.cs
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.build.json
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.development.json
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.TP4_Benezra_Landivar.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.build.TP4_Benezra_Landivar.props
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP4_Benezra_Landivar.props
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP4_Benezra_Landivar.props
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\scopedcss\bundle\TP4_Benezra_Landivar.styles.css
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.dll
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\refint\TP4_Benezra_Landivar.dll
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.pdb
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\TP4_Benezra_Landivar.genruntimeconfig.cache
+E:\Prog2024\TP4_Benezra_Landivar\obj\Debug\net8.0\ref\TP4_Benezra_Landivar.dll

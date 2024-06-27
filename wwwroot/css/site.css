@@ -1,0 +1,104 @@
+html {
+  font-size: 14px;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
+img{
+  width: 10%;
+  height: auto;
+}
+p{
+  text-decoration: none;
+}
+a{
+  text-align: center;
+  color: black;
+  background-color: rgb(199, 199, 199);
+  padding: 0.5%;
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 5px 2px 2px black;
+}
+
+input [type="submit"]{
+  color: black;
+  background-color: rgb(199, 199, 199);
+  padding: 0.5%;
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 5px 2px 2px black;
+}
+
+footer {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+}
+
+div{
+  text-align: center;
+}
+
+.DatosPaquete {
+  text-align: start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  width: 85%;
+}
+
+.DatosPaquete p{
+  float: left;
+  overflow: auto;
+  margin: 0.25%;
+}
+
+.DatosPaquete img{
+  width: 20%;
+  height: auto;
+}
+
+.DatosPaquete input{
+  width: 20%;
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+  background: rgb(200, 200, 200);
+  padding: 2.5%;
+  border-radius: 30px;
+  margin: 2%;
+}
+
+section h3{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.Paquetes{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Paquetes img{
+  width: 20%;
+  height: auto;
+  border-radius: 20px;
+}
+.Paquetes p{
+  font-size: xx-large;
+}
